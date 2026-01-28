@@ -1,0 +1,534 @@
+[
+  {
+    "timestamp": "2026-01-28T00:24:09.237086",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 704,
+      "date": "2026-01-27T11:37:10+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:11.533207",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:11+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:11.535201",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 705,
+      "date": "2026-01-27T11:37:13+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:13.812307",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:13+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:13.813308",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 706,
+      "date": "2026-01-27T11:37:14+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:16.103954",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:15+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:16.105949",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 707,
+      "date": "2026-01-27T11:37:15+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:18.385012",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:17+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:18.386010",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 708,
+      "date": "2026-01-27T11:37:16+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:20.663692",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:20+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:20.664690",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 709,
+      "date": "2026-01-27T11:37:16+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:22.965644",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:22+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:22.967639",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "冬",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 710,
+      "date": "2026-01-27T11:37:17+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:25.259253",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "❌ 注册时出错，请稍后再试。",
+      "reply_markup": null,
+      "parse_mode": null,
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:24+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:36.710860",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "玥",
+      "last_name": "李",
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 718,
+      "date": "2026-01-27T16:24:36+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:24:37.513528",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 玥 李\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": "2026-01-27T16:24:37+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:56:17.128564",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "玥",
+      "last_name": "李",
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 720,
+      "date": "2026-01-27T16:56:16+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:56:17.972832",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 玥 李\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:57:21.771837",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "玥",
+      "last_name": "李",
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 722,
+      "date": "2026-01-27T16:57:20+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:57:22.076992",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 玥 李\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:57:23.311664",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "玥",
+      "last_name": "李",
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 724,
+      "date": "2026-01-27T16:57:22+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T00:57:23.599731",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 玥 李\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:10.609148",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 726,
+      "date": "2026-01-27T18:09:21+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:11.484356",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 李玥 None\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:11.486350",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 727,
+      "date": "2026-01-27T18:09:22+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:11.784702",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 李玥 None\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:11.788474",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 728,
+      "date": "2026-01-27T18:09:24+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:04:12.153861",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 李玥 None\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:17.994309",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "/start",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 732,
+      "date": "2026-01-28T03:12:16+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:18.744486",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "✅ 欢迎回来！\n\n👤 **你的档案**\nID: `7988930942`\n姓名: 李玥 None\n用户名: @shark\\_skye\n账户类型: 普通用户\n语言: zh\\-hans",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:25.445322",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "你好",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 734,
+      "date": "2026-01-28T03:12:23+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:28.577064",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "你好！有什么我可以帮你的吗？",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:35.568149",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "我是谁",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 736,
+      "date": "2026-01-28T03:12:34+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:38.384228",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "👤 \\*\\*用户档案\\*\\*\nID: \\`7988930942\\`\n姓名: 冬\n用户名: @shark\\_skye\n账户类型: 普通用户",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:53.706381",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "我谁",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 738,
+      "date": "2026-01-28T03:12:52+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:12:56.187472",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "👤 \\*\\*用户档案\\*\\*\nID: \\`7988930942\\`\n姓名: 冬\n用户名: @shark\\_skye\n账户类型: 普通用户",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:13:08.422468",
+    "type": "user_message",
+    "data": {
+      "user_id": 7988930942,
+      "chat_id": 7988930942,
+      "text": "你看看我谁",
+      "first_name": "李玥",
+      "last_name": null,
+      "username": "shark_skye",
+      "language_code": "zh-hans",
+      "is_premium": null,
+      "message_id": 740,
+      "date": "2026-01-28T03:13:06+00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:13:10.680820",
+    "type": "bot_response",
+    "data": {
+      "chat_id": 7988930942,
+      "text": "👤 \\*\\*用户档案\\*\\*\nID: \\`7988930942\\`\n姓名: 冬\n用户名: @shark\\_skye\n账户类型: 普通用户",
+      "reply_markup": null,
+      "parse_mode": "Markdown",
+      "disable_web_page_preview": null,
+      "timestamp": null
+    }
+  }
+]

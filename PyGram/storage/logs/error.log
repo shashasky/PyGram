@@ -1,0 +1,134 @@
+[2026-01-27 17:59:39] [SYNC] No module named 'app.Bot.Controllers.StartConroller'
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 24, in validate_routes
+    mod = importlib.import_module(module_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'app.Bot.Controllers.StartConroller'
+====================================================================================================
+[2026-01-27 18:01:34] [SYNC] No module named 'app.Bot.Controllers.StartConroller'
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 24, in validate_routes
+    mod = importlib.import_module(module_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'app.Bot.Controllers.StartConroller'
+====================================================================================================
+[2026-01-27 18:02:11] [SYNC] No module named 'app.Bot.Controllers.Startontroller'
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 24, in validate_routes
+    mod = importlib.import_module(module_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'app.Bot.Controllers.Startontroller'
+====================================================================================================
+[2026-01-27 18:05:24] [SYNC] 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 33, in validate_routes
+    raise ValueError(
+ValueError: 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+====================================================================================================
+[2026-01-27 18:11:18] [SYNC] 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 33, in validate_routes
+    raise ValueError(
+ValueError: 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+====================================================================================================
+[2026-01-28 00:20:03] [SYNC] 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 7, in <module>
+    app = create_app()
+          ^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\app.py", line 4, in create_app
+    return Application()
+           ^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 13, in __init__
+    validate_routes(self.project_root)
+  File "E:\project\python\PyGram\bootstrap\Foundation\RouteValidator.py", line 33, in validate_routes
+    raise ValueError(
+ValueError: 路由冲突: 注册命令 'start' 但控制器 app.Bot.Controllers.StartController 的 commands 中未包含它
+====================================================================================================
+[2026-01-28 00:20:56] [SYNC] Attribute `send_message` of class `ExtBot` can't be set!
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 8, in <module>
+    app.run()
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 19, in run
+    start_polling()
+  File "E:\project\python\PyGram\framework\Bot\BotKernel.py", line 28, in start_polling
+    app.bot = patch_bot_send_methods(app.bot)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\framework\Bot\BotPatcher.py", line 32, in patch_bot_send_methods
+    bot_instance.send_message = patched_send_message
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\.venv\Lib\site-packages\telegram\_telegramobject.py", line 161, in __setattr__
+    raise AttributeError(
+AttributeError: Attribute `send_message` of class `ExtBot` can't be set!
+====================================================================================================
+[2026-01-28 00:23:19] [SYNC] The parameter `bot` may only be set, if no token was set.
+Traceback (most recent call last):
+  File "E:\project\python\PyGram\main.py", line 8, in <module>
+    app.run()
+  File "E:\project\python\PyGram\bootstrap\Foundation\Application.py", line 19, in run
+    start_polling()
+  File "E:\project\python\PyGram\framework\Bot\BotKernel.py", line 27, in start_polling
+    app = ApplicationBuilder().token(BOT_TOKEN).bot(WrappedBot(token=BOT_TOKEN)).build()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\project\python\PyGram\.venv\Lib\site-packages\telegram\ext\_applicationbuilder.py", line 1019, in bot
+    raise RuntimeError(_TWO_ARGS_REQ.format("bot", error))
+RuntimeError: The parameter `bot` may only be set, if no token was set.
+====================================================================================================
