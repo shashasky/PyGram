@@ -1,2 +1,0 @@
-def bot():
-    return None
